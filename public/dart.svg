@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="409" height="309" viewBox="0 0 409 309">
+  <g id="Area_chart" data-name="Area chart" transform="translate(-16 -800)">
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="392" height="306" transform="translate(33 800)" fill="none"/>
+    <text id="Text" transform="translate(61 1106)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-9.744" y="0">Text</tspan></text>
+    <text id="Text-2" data-name="Text" transform="translate(149 1106)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-9.744" y="0">Text</tspan></text>
+    <text id="Text-3" data-name="Text" transform="translate(238 1106)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-9.744" y="0">Text</tspan></text>
+    <text id="Text-4" data-name="Text" transform="translate(326 1106)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-9.744" y="0">Text</tspan></text>
+    <text id="Text-5" data-name="Text" transform="translate(415 1106)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-9.744" y="0">Text</tspan></text>
+    <text id="_0" data-name="0" transform="translate(27 1081)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="12.385" y="10">0</tspan></text>
+    <text id="_20" data-name="20" transform="translate(21 1024)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="6.77" y="10">20</tspan></text>
+    <text id="_40" data-name="40" transform="translate(21 968)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="6.77" y="10">40</tspan></text>
+    <text id="_60" data-name="60" transform="translate(21 912)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="6.77" y="10">60</tspan></text>
+    <text id="_80" data-name="80" transform="translate(21 856)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="6.77" y="10">80</tspan></text>
+    <text id="_100" data-name="100" transform="translate(16 800)" fill="#a3a3a3" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="1.154" y="10">100</tspan></text>
+    <path id="Grid_v_1" d="M61,805v281" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_v_2" d="M149,805v281" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_v_3" d="M238,805v281" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_v_4" d="M326,805v281" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_v_5" d="M415,805v281" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_1" d="M61,1086H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_2" d="M61,1029H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_3" d="M61,973H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_4" d="M61,917H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_5" d="M61,861H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Grid_6" d="M61,805H415" fill="none" stroke="#f0f0f0" stroke-width="1"/>
+    <path id="Area_1" d="M61,923s44-90,88-90,44,126,89,126c44,0,44,28,88,28s89,28,89,28v71H61Z" fill="#a6cee3" opacity="0.8"/>
+    <path id="Area_2" d="M61,979s44-113,88-113,44-17,89-17c44,0,44-36,88-36s89,250,89,250v23H61Z" fill="#1f78b4" opacity="0.8"/>
+  </g>
+</svg>

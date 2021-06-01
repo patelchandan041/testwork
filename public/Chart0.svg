@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="334.231" height="224.972" viewBox="0 0 334.231 224.972">
+  <g id="Column_Chart0" data-name="Column Chart0" transform="translate(-33 -105.407)">
+    <g id="Chart" transform="translate(33 105.407)">
+      <g id="count" transform="translate(0 0)">
+        <rect id="Rectangle_93" data-name="Rectangle 93" width="62.72" height="204.972" fill="#9bb73a"/>
+        <rect id="Rectangle_94" data-name="Rectangle 94" width="62.72" height="187.379" transform="translate(90.504 17.593)" fill="#2292be"/>
+        <path id="Path_16" data-name="Path 16" d="M0,0H62.72V65.571H0Z" transform="translate(181.007 139.401)" fill="#e380c7"/>
+        <rect id="Rectangle_96" data-name="Rectangle 96" width="62.72" height="27.321" transform="translate(271.511 177.651)" fill="#e20612"/>
+      </g>
+    </g>
+    <g id="X_Axis" data-name="X Axis" transform="translate(53.36 316.379)">
+      <text id="sold" transform="translate(11 11)" fill="#e4c5a1" font-size="12" font-family="ArialMT, Arial"><tspan x="-11.007" y="0">sold</tspan></text>
+      <text id="unsold" transform="translate(102.622 11)" fill="#e4c5a1" font-size="12" font-family="ArialMT, Arial"><tspan x="-17.681" y="0">unsold</tspan></text>
+      <text id="under-maintainence" transform="translate(190.66 11)" fill="#e4c5a1" font-size="12" font-family="ArialMT, Arial"><tspan x="-53.033" y="0">under-maintainence</tspan></text>
+      <text id="disputed" transform="translate(282.511 11)" fill="#e4c5a1" font-size="12" font-family="ArialMT, Arial"><tspan x="-22.685" y="0">disputed</tspan></text>
+    </g>
+  </g>
+</svg>

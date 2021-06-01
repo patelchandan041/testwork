@@ -1,38 +1,125 @@
-.App {
-  text-align: center;
+.App{
+height: 100vh !important;
+background-color: #242331;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.header{
   display: flex;
-  flex-direction: column;
+  height: 40px;
+  justify-content: space-between;
+  background-color:#2A1A1F;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-bottom: 5px solid white;
+}
+.header__img{
+  height: 30px;
+}
+.header__mid{
+  color:#D5B493;
+}
+.header__right{
+  display: flex;
+}
+.header__right1{
+  height: 25px;
+  display: flex;
+  background-color: #66392E;
+  margin-top: 3px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.right1__img{
+  height: 15px;
+ margin-right: 15px;
+ margin-top: 5px;
+ 
+}
+.circle{
+  height: 30px;
+  margin-right: 5px;
+}
+.bottom{
+  position: sticky;
+  bottom: 0;
+  height: 40px;
+  background-color: #2A1A1F;
+}
+.bottom__left{
+ margin-right:1270px;
+}
+.bottom__img{
+  margin-top: 9px;
+  height: 20px;
+  margin-right: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+
+
+
+.charts{
+  margin-top: 0px;
+  background-color: #333;
+  width: 333px;
+  max-height: 86vh;
+ overflow-y: scroll;
+ overflow-x: hidden;
+ position: fixed;
+}
+.charts::-webkit-scrollbar{
+  color: #D5B493;
+}
+.top{
+  display: flex;
+  color: #D5B493;
+  justify-content: space-around;
+}
+.top > h3{
+  margin-top: 30px;
+  margin-left: 70px;
+}
+.top__img{
+  height: 20px;
+  margin-top: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+
+.calender{
+  background-color: #333;
+  width: 333px;
+ 
+}
+.calender__top{
+  display: flex;
+  color: #D5B493;
+  justify-content: space-around;
+}
+.calender__top > h2{
+ margin-left: 70px;
+}
+.dropdown{
+  color: #66392E;
+}
+.dropdown__select{
+  width: 75%;
+  margin: 0px auto;
+}
+
+.div{
+  background-color:#66392E;
+  max-width: 250px;
+  border-radius: 10px;
+ margin: 0px auto;
+}
+.date{
+  display: flex;
+ 
+}
+.datepicker{
+  margin-top: 10px;
+  width: 70px;
+  background-color: #D5B493;
+  border: none;
 }
